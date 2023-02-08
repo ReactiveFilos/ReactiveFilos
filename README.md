@@ -1,5 +1,5 @@
 ### Hi, my name is Filippo.
-React and Web3 Developer
+Next.js Full-Stack and Web3 Developer
 
 
 <!--
